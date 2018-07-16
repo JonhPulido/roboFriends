@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("gatitos.jpg");
+  background-repeat: repeat;
+}
+
+h1
+{
+	color:rgb(255, 255, 204);
+	 font-family: "Times New Roman", Times, serif;
+
+}
